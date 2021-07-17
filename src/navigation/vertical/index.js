@@ -88,4 +88,52 @@ export default [
       },
     ],
   },
+  {
+    title: 'Contrast',
+    route: 'Contrast',
+  },
+  {
+    title: 'Projects',
+    route: 'projects',
+  },
+  {
+    title: 'Tasks',
+    route: 'tasks',
+  },
+  {
+    title: 'Messages',
+    route: 'messages',
+  },
+  {
+    title: 'Tickets',
+    route: 'tickets',
+  },
+  {
+    title: 'Users',
+    route: 'users',
+  },
+  {
+    title: 'Notes',
+    route: 'notes',
+  },
+  {
+    title: 'Subscriptions',
+    route: 'subscriptions',
+  },
+  {
+    title: 'Knowledgebase',
+    route: 'knowledgebase',
+  },
+  {
+    title: 'Reports',
+    route: 'reports',
+  },
+  {
+    title: 'Settings',
+    route: 'settings',
+  },
+  {
+    title: 'File Manager',
+    route: 'file-manager',
+  },
 ]
