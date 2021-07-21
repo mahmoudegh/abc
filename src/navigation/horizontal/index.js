@@ -96,8 +96,8 @@ export default [
     icon: 'MoreHorizontalIcon',
     children: [
       {
-        title: 'Contrast',
-        route: 'Contrast',
+        title: 'Contracts',
+        route: 'contracts',
       },
       {
         title: 'Projects',

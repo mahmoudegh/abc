@@ -89,51 +89,63 @@ export default [
     ],
   },
   {
-    title: 'Contrast',
-    route: 'Contrast',
+    title: 'Contracts',
+    route: 'contracts',
+    icon: 'FileMinusIcon',
   },
   {
     title: 'Projects',
     route: 'projects',
+    icon: 'ClockIcon',
   },
   {
     title: 'Tasks',
     route: 'tasks',
+    icon: 'ListIcon',
   },
   {
     title: 'Messages',
     route: 'messages',
+    icon: 'MessageSquareIcon',
   },
   {
     title: 'Tickets',
     route: 'tickets',
+    icon: 'CrosshairIcon',
   },
   {
     title: 'Users',
     route: 'users',
+    icon: 'UsersIcon',
   },
   {
     title: 'Notes',
     route: 'notes',
+    icon: 'FileTextIcon',
   },
   {
     title: 'Subscriptions',
     route: 'subscriptions',
+    icon: 'RotateCwIcon',
   },
   {
     title: 'Knowledgebase',
     route: 'knowledgebase',
+    icon: 'PenToolIcon',
   },
   {
     title: 'Reports',
     route: 'reports',
+    icon: 'TrendingUpIcon',
   },
   {
     title: 'Settings',
     route: 'settings',
+    icon: 'SettingsIcon',
   },
   {
     title: 'File Manager',
     route: 'file-manager',
+    icon: 'FilePlusIcon',
   },
 ]
